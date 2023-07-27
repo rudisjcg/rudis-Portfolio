@@ -25,13 +25,26 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import junta from './company/junta.png';
+import duv from './company/duv.jpg'
+import simplified from './company/simplified.jpg'
+import freelance from './company/freelance.svg'
+import uceta from './company/uceta.jpg'
+import david from './company/1620787420270.jpg'
+import eduardo from './company/1670388251342.jpg'
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import library from "./library.jpg";
+import ultraverse from "./ultraverse.jpg";
+import twitter from "./twitter.jpg";
+import netflix from './netflix.jpg';
+import admin from './admin.jpg'
 
 export {
   logo,
+  ultraverse,
+  uceta,
+  david,
+  eduardo,
   backend,
   creator,
   mobile,
@@ -56,7 +69,12 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
-  jobit,
-  tripguide,
+  library,
+  twitter,
+  junta,
+  duv,
+  simplified,
+  freelance,
+  netflix,
+  admin,
 };
